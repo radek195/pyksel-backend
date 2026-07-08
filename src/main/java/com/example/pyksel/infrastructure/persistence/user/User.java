@@ -1,5 +1,6 @@
-package com.example.pyksel.domian.user;
+package com.example.pyksel.infrastructure.persistence.user;
 
+import com.example.pyksel.domian.user.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

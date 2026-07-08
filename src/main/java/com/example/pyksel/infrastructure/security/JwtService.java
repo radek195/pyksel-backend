@@ -1,6 +1,6 @@
 package com.example.pyksel.infrastructure.security;
 
-import com.example.pyksel.domian.user.User;
+import com.example.pyksel.infrastructure.persistence.user.User;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.security.Keys;

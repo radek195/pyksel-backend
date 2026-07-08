@@ -1,4 +1,4 @@
-package com.example.pyksel.domian.user;
+package com.example.pyksel.infrastructure.persistence.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

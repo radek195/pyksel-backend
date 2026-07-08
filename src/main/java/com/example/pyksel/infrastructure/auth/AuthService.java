@@ -1,8 +1,8 @@
 package com.example.pyksel.infrastructure.auth;
 
 import com.example.pyksel.domian.user.Role;
-import com.example.pyksel.domian.user.UserRepository;
-import com.example.pyksel.domian.user.User;
+import com.example.pyksel.infrastructure.persistence.user.UserRepository;
+import com.example.pyksel.infrastructure.persistence.user.User;
 import com.example.pyksel.infrastructure.security.JwtService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.authentication.AuthenticationManager;

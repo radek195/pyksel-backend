@@ -1,5 +1,6 @@
 package com.example.pyksel.domian.user;
 
+import com.example.pyksel.infrastructure.persistence.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
